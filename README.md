@@ -4,7 +4,7 @@
 2. build image，或者本机能够直接调用certbot和对应python库
 3. 运行，如果要更新会自动修改DNS，不需要则会输入1退出
 
-docker-compose参考：
+自用docker-compose：
 ```yaml
 version: '3'
 
